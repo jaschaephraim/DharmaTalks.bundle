@@ -1,6 +1,6 @@
 # Dharma Talks Plex Channel #
 
-This [Plex](https://plex.tv) plugin provides a channel based on [Thomas Buckley-Houston](http://tombh.co.uk/)'s excellent [Dharma API](http://dharma-api.com), which scrapes various dharma talk websites and provides a REST API to access their metadata.
+This [Plex](https://plex.tv) plugin provides a channel based on [Thomas Buckley-Houston](http://tombh.co.uk/)'s excellent [Dharma API](http://dharma-api.com), which scrapes various dharma talk websites and provides an API to access their metadata.
 
 ## Image Credits ##
 
